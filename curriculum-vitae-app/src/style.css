@@ -1,0 +1,83 @@
+.header {
+    background-color: #5f0404;
+    height: 240px;
+   
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    font-size: 10px;
+  }
+  h1{
+    font-size: 30px;
+    margin-left: 30px;
+  }
+  h2{
+    font-size: 20px;
+    position: relative;
+    top :-170px;
+    color:orange;
+    margin-left: 30px;
+  }
+  p{
+    font-size: 20px;
+    margin-left: 30px;
+    position: relative;
+    top :-180px;
+  }
+  body{
+    background-color:black;
+   color: white;
+  }
+  .info{
+    font-size: 30px;
+    position: relative;
+    top :10px;
+    color:orange;
+    margin-left: 30px;
+  }
+ 
+  .list{
+    font-size:20px;
+    padding: 10px;
+    margin: 10px;
+  }
+  h3{
+    color:burlywood;
+    margin-left: 20px;
+    font-size:30px;
+    text-decoration: underline;
+  }
+ .info2{
+    position:absolute;
+    top : 45%;
+    margin-left:70%;
+    font-size:60px
+  } 
+  .list2{
+    position:relative;
+   top: -560px;
+    padding: 10px;
+    margin-left:69%;
+    font-size:20px
+  }
+  .img{
+    position: relative;
+    top : 0px;
+    margin-left : 1140px;
+    border-radius:100px;
+    border: 10px solid orange
+  }
+.para2{
+    position: relative;
+    top : 10px;
+}
+.para3{
+    position: relative;
+    top : 10px;
+}
+.para4{
+    position: relative;
+    top : 20px;
+}
